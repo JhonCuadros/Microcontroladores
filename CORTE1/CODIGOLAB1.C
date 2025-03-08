@@ -29,7 +29,7 @@
 #pragma config XINST = OFF      // Extended Instruction Set Enable bit (Instruction set extension and Indexed Addressing mode disabled (Legacy mode))
 
 #include <xc.h>
-#define _XTAL_FREQ 4000000 
+#define _XTAL_FREQ 4000000   // Frecuencia del oscilador
 
 void CONF_PUERTOS(void);
 void BORRAR_BASURA(void);
@@ -127,5 +127,5 @@ void MOSTRAR_RESULTADO(void)
 {
     LATD = RESULTADO; // Mostrar resultado en LEDs
     __delay_ms(20000); // Mantener el resultado encendido por 20 segundos
-    LATD = 0; // Apagar LEDs despu s del tiempo
+    LATD = 0; // Apagar LEDs despues del tiempo
 }
