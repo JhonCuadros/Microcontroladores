@@ -1,4 +1,7 @@
-/ CONFIG1H
+// PIC18F45K22 Configuration Bit Settings
+
+// 'C' source line config statements
+// CONFIG1H
 #pragma config FOSC = XT        // Oscillator Selection bits (XT oscillator)
 #pragma config PLLCFG = OFF     // 4X PLL Enable (Oscillator used directly)
 #pragma config PRICLKEN = ON    // Primary clock enable bit (Primary clock is always enabled)
