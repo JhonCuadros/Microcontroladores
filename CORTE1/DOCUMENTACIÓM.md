@@ -408,7 +408,7 @@ La siguiente imagen muestra como debe ser la conexión entre el pickit 3 y el pi
 
     El nombre que se le halla dado al proyecto aparacera en la ventana de **proyect** donde se le dara click derecho al nombre(En este caso el nombre es CODIGO) despues **New** y luego **main.c**
 
-    -Luego se procede a configurar el microcontrolador(es decir la configuración de los bits que se explico al principio) y a diseñar el codigo(en este caso es [CODIGOALU.c]("C:\Users\cuadr\github-classroom\lab01-alu-g1-e3\CODIGOLAB1\CODIGOALU.c")).
+    -Luego se procede a configurar el microcontrolador(es decir la configuración de los bits que se explico al principio) y a diseñar el codigo(en este caso es [CODIGOALU.c](https://github.com/JhonCuadros/Microcontroladores/blob/JHON-ALEXANDER-CUADROS/CORTE1/CODIGOALU.c)).
 
   **Selección del PICKit 3:**
 
